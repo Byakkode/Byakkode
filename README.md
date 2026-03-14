@@ -35,7 +35,7 @@ Currently deepening expertise in **.NET ecosystem**, **mobile development**, and
 | Project | Description | Stack |
 |---|---|---|
 | 🔴 [`realtime-ops-dashboard`](https://github.com/Byakkode/realtime-ops-dashboard) | Real-time monitoring dashboard with live updates | Blazor · SignalR · Docker |
-| 🟡 [`resource-api-starter`](https://github.com/Byakkode/resource-api-starter) | Production-ready REST API template | ASP.NET Core 8 · Clean Arch · xUnit |
+| 🔴 [`resource-api-starter`](https://github.com/Byakkode/resource-api-starter) | Production-ready REST API template | ASP.NET Core 8 · Clean Arch · xUnit |
 | 🟡 [`cross-platform-sync`](https://github.com/Byakkode/cross-platform-sync) | Offline-first mobile app with cloud sync | .NET MAUI · Azure |
 | ⚪ More coming soon... | | |
 
@@ -46,7 +46,8 @@ Currently deepening expertise in **.NET ecosystem**, **mobile development**, and
 ## 🎯 What I'm working on
 
 - Migrating legacy .NET skills to modern .NET 8 patterns
-- Building a real-time full-stack app with Blazor + SignalR
+- ✅ realtime-ops-dashboard — shipped (Blazor · SignalR · Docker · Clean Architecture)
+- 🔨 resource-api-starter — REST API template with .NET 10, xUnit, and Docker
 - Exploring healthcare interoperability standards (HL7/FHIR)
 
 ---
